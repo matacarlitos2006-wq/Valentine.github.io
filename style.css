@@ -82,6 +82,11 @@ button {
     cursor: pointer;
 }
 
+.video {
+    text-align: center;
+    justify-content: center;
+}
+
 #yesBtn {
     background-color: #d3d3d3;
     color: black;
