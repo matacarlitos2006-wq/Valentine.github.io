@@ -338,3 +338,21 @@ button {
   top: 0;
   transform: rotateZ(180deg);
 }
+.why {
+    text-align: center;
+    margin: 40px auto;
+    max-width: 800px;
+}
+.why h2 {
+    color: #ff1493;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+.why p {
+    font-size: 1.2rem;
+    color: #444;
+    line-height: 1.6;
+}
+.why p:last-child {
+    margin-bottom: 0;
+}
